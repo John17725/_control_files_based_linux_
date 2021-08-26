@@ -1,0 +1,11 @@
+clear
+echo  "\e[31m -BBBBBBBB       BBBBBB  BBBBBBBBBB  BB      BB  BB      BB  BBBBBBBBBB  BB      BB  BBBBBB  BBBBBBBB      BBBBBB  -\e[0m"
+echo  "\e[31m -BB       BB      BB    BB          BB      BB  BB      BB  BB          BB      BB    BB    BB      BB  BB      BB-\e[0m"
+echo  "\e[31m -BB       BB      BB    BB          BBBB    BB  BB      BB  BB          BBBB    BB    BB    BB      BB  BB      BB-\e[0m"
+echo  "\e[31m -BB       BB      BB    BB          BBBB    BB  BB      BB  BB          BBBB    BB    BB    BB      BB  BB      BB-    .--.\e[0m"
+echo  "\e[31m -BBBBBBBB         BB    BBBBBBBB    BB  BB  BB  BB      BB  BBBBBBBB    BB  BB  BB    BB    BB      BB  BB      BB-   |o_o |\e[0m"
+echo  "\e[31m -BB       BB      BB    BB          BB    BBBB  BB      BB  BB          BB    BBBB    BB    BB      BB  BB      BB-   |:_/ |\e[0m"
+echo  "\e[31m -BB       BB      BB    BB          BB    BBBB  BB      BB  BB          BB    BBBB    BB    BB      BB  BB      BB-  //   \ \'\e[0m"
+echo  "\e[31m -BB       BB      BB    BB          BB      BB  BB      BB  BB          BB      BB    BB    BB      BB  BB      BB- (| JGP | )'\e[0m"
+echo  "\e[31m -BB       BB      BB    BB          BB      BB    BB  BB    BB          BB      BB    BB    BB      BB  BB      BB-/'\_   _/'\'\e[0m"
+echo  "\e[31m -BBBBBBBBB      BBBBBB  BBBBBBBBBB  BB      BB      BB      BBBBBBBBBB  BB      BB  BBBBBB  BBBBBBBB      BBBBBB  -\___)=(___/'\e[0m"
